@@ -21,10 +21,9 @@ function update(direction) {
         }
 
     }
-    else if (direction > 0) {
+    else if (direction < 0) {
         active = active -1
-        
-        if(active < 0){
+        if(active <0){
             active = total -1
         }
 
