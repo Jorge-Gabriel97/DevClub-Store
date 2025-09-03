@@ -11,7 +11,7 @@ DevClub Store é uma loja fictícia, responsiva e fácil de navegar, que destaca
 - `index.html`, `produtos.html`, `contato.html`  
 - `assets/` – imagens dos produtos  
 - `css/` – estilos  
-- `js/` – scripts (se houver)
+- `js/` – scripts 
 
 ## Tecnologias
 - HTML5  
